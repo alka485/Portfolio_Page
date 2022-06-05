@@ -12,6 +12,7 @@ body{
     justify-content: flex-start;
     background-color: #74E4E2;
     color: #3E0606;
+    padding :2%;
 }
 
 header{
@@ -21,8 +22,6 @@ header{
        padding: 2%;  
 }
 
-
-
 nav a {
     
     font-weight: bold;
@@ -31,9 +30,7 @@ nav a {
     padding: 30px;
     }
 
-  
+    
 
- .Information{
 
- }   
 
