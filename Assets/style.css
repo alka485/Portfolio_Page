@@ -8,10 +8,13 @@ header{
     align-items: center;
     padding:1%;
     background-color: #74E4E2;
+    color: #3E0606;
     
 }
 
 nav a {
-
-}
+    color:#3E0606;
+    font-weight: bold;
+    font-size: medium;
+    }
 
