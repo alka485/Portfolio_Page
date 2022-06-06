@@ -30,7 +30,14 @@ nav a {
     padding: 30px;
     }
 
-    
+    .aboutme{
+        flex: 1 0 0;
+        padding: 10px;
+        text-align: center;
+        justify-content:;
+        
+        
+    }
 
 
 
