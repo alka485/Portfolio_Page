@@ -28,6 +28,7 @@ nav a {
     font-size: medium;
     justify-content:center;
     padding: 30px;
+    color: #3E0606;
     }
 
 .row{
@@ -39,5 +40,17 @@ nav a {
     padding: 10px;
     height: 300px;
 }
+
+a:hover{
+    background-color: #3D8786;
+}
+
+a:active{
+    font-size: 180%;
+    
+}
+
+
+
 
 
