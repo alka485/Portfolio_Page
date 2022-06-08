@@ -38,6 +38,7 @@ nav a {
 .row{
     display: flex;
     height: 200px;
+    border-style: solid ridge;
     
     
 }    
@@ -46,6 +47,7 @@ nav a {
     
     padding: 50px;
     height: 300px;
+    border: #3E0606;
 }
 
 a:hover{
@@ -57,7 +59,12 @@ a:active{
     
 }
 
+.work-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 
+}
 
 
 
