@@ -18,6 +18,15 @@ For this challenge I wrote the HTML and CSS for a sample professional portfolio 
 
 ## Link to deployed application
 
+https://github.com/alka485/Portfolio_Page.git
+
+## Screenshots 
+![alt text](./Assets/Images/Portfolio_Page%201.png)
+![alt text](./Assets/Images/Portfolio_Page2.png)
+![alt text](./Assets/Images/Portfolio%20-%20Profile%203.png)
+
+
+
 
 
 
